@@ -12,7 +12,7 @@ Brief description :
 - Before paying the product, Payment history (with detailed information and time) can be added to the database (Orders_Database.csv) based on customer's choice
 
 
-This code was created in VSCode environment. While running the Main.py there can be some errors about finding module 
+This code was created in VSCode IDE environment. While running the Main.py there can be some errors about finding module 
   (e.g ModuleNotFoundError: No module named 'importMenu') Sometimes this happens when using another ide or etc. 
   To prevent this issue, i created another file PioSystemTotal.py consisting of all files. You can also run this file for see the result :) 
 
