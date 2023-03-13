@@ -8,7 +8,7 @@ Main.py is the starting and main part of the project. This file takes functions 
 
 Brief description :
 - Firstly, menu appears on the screen. Customer should choose Pizza Base and sauce. Also customer can choose extra sauce as his/her choose
-- According to the given order, pizza description and payment appears on the screen. As a next step, customer should enter the information for payment
+- According to the given order, pizza description and payment appears on the screen. As a next step, customer should enter information (e.g ID number, Credit Card number etc.) for payment
 - Before paying the product, Payment history (with detailed information and time) can be added to the database (Orders_Database.csv) based on customer's choice
 
 
@@ -19,4 +19,4 @@ This code was created in VSCode environment. While running the Main.py there can
 
 This is a final project for "Akbank Python Bootcamp" bootcamp under Global AI Hub https://globalaihub.com/ 
 
-(can be seen main details in this document : https://docs.google.com/document/d/1OYNAFSqUnbCEkRAqI0z4mFT0uUrfXqYUxbalRw3xY3U/edit)
+can be seen main details in this document : (https://docs.google.com/document/d/1OYNAFSqUnbCEkRAqI0z4mFT0uUrfXqYUxbalRw3xY3U/edit)
