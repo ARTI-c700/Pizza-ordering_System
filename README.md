@@ -17,4 +17,5 @@ This code was created in VSCode environment. While running the Main.py there can
 
 
 This is a final project for "Akbank Python Bootcamp" bootcamp under Global AI Hub https://globalaihub.com/ 
+
 (can be seen main details in this document : https://docs.google.com/document/d/1OYNAFSqUnbCEkRAqI0z4mFT0uUrfXqYUxbalRw3xY3U/edit)
