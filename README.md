@@ -2,7 +2,8 @@
 
 Project consists of 6 files with .py extension and 1 file with .csv extension also 1 file with .txt extension
 Main.py is the starting and main part of the project. This file takes functions and variables from other python files.
--->> As a result, the Main.py file should be run.<<--  
+
+-->> As a RESULT, the Main.py file should be run.<<--  
 
 
 Brief description :
