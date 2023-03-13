@@ -16,5 +16,5 @@ This code was created in VSCode environment. While running the Main.py there can
   To prevent this issue, i created another file PioSystemTotal.py consisting of all files. You can also run this file for see the result :) 
 
 
-This project is final project for "Akbank Python Bootcamp" bootcamp uner Turkish AI 
+This is a final project for "Akbank Python Bootcamp" bootcamp under Global AI Hub https://globalaihub.com/ 
 (can be seen main details in this document : https://docs.google.com/document/d/1OYNAFSqUnbCEkRAqI0z4mFT0uUrfXqYUxbalRw3xY3U/edit)
